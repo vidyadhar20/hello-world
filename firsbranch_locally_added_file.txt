@@ -3,10 +3,6 @@ line 2
 line 3 
 line43
 line6
-<<<<<<< HEAD
 line8
 line feature 1
-=======
-line feature 1
 line7
->>>>>>> branch 'feature' of https://github.com/vidyadhar20/hello-world.git
